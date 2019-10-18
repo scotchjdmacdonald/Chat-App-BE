@@ -1,4 +1,4 @@
-# Chat App PHP Backend
+# Chat App PHP Backend (my first PHP app :0)
 
 ### Install project dependencies
 
