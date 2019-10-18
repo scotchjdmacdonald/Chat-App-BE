@@ -1,0 +1,12 @@
+2019-10-18 19:58:05 ::Message retrieval successful for id:1to2
+2019-10-18 19:58:06 ::Message retrieval successful for id:1to2
+2019-10-18 19:58:10 ::Message retrieval successful for id:1to2
+2019-10-18 19:58:12 ::Message retrieval successful for id:1to2
+2019-10-18 19:58:12 ::Message creation successful: hello\ from 1
+2019-10-18 19:58:13 ::Message retrieval successful for id:1to2
+2019-10-18 19:58:16 ::Message retrieval successful for id:2to1
+2019-10-18 19:58:18 ::Message retrieval successful for id:2to1
+2019-10-18 19:58:19 ::Message creation successful: wat from 2
+2019-10-18 19:58:19 ::Message retrieval successful for id:2to1
+2019-10-18 19:58:20 ::Message retrieval successful for id:1to2
+2019-10-18 19:58:21 ::Message retrieval successful for id:1to2
